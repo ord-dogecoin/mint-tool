@@ -10,7 +10,7 @@ Doginals browser mint tool is an easy-to-use online minting tool for inscribing 
 ## What file format is supported ?
 Only PNG format is supported for now. More file formats to be added later.
 
-## What is the file size limit ?
+## What is the maximum file size limit ?
 Each individual inscription PNG file size limit must be under 1.6 KB (1600 bytes) in size. This is a temporary limit that will be lifted later on. While this may seem a low barrier, most pixelated content fits in this limit (i.e [Dogecoin Rocks](https://dogecoinrocks.info/) are 200 bytes each)
 
 ## What is the file size limit ?
