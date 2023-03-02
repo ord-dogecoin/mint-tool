@@ -1,6 +1,7 @@
 
 
 
+
 Doginals Browser Mint Tool FAQ
 ======
 ## What is Doginals Browser Mint Tool ?
@@ -12,9 +13,6 @@ Only PNG format is supported for now. More file formats to be added later.
 
 ## What is the maximum file size limit ?
 Each individual inscription PNG file size limit must be under 1.6 KB (1600 bytes) in size. This is a temporary limit that will be lifted later. While this may seem a low barrier, most pixelated content fits in this limit (i.e [Dogecoin Rocks](https://dogecoinrocks.info/) are 200 bytes each)
-
-## What is the file size limit ?
-Each individual inscription PNG file must be under 1.6 KB (1600 bytes) in size. This is a temporary limit that will be lifted further.
 
 ## What is the mint fee ?
 The mint fee is 10 DOGE per inscription. This is the total amount you pay to mint one inscription.
