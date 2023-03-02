@@ -21,4 +21,4 @@ The mint fee is 10 DOGE per inscription. This is the total amount you pay to min
 You need a non-custodial dogecoin wallet to pay for the service. We recommend using [Trust Wallet](https://trustwallet.com/).
 
 ## Where to receive my inscriptions ?
-Out mint tool will ask you to enter your Dogecoin destination address before inscribing. Unfortunately you MUST create a separate wallet FOR EACH inscription  that you're minting. You can also use [Trust Wallet](https://trustwallet.com/) for this. Just make sure to generate a new seed for each individual inscription.
+Our mint tool will ask you to enter your Dogecoin destination address before inscribing. Unfortunately you MUST create a separate wallet FOR EACH inscription  that you're minting. You can also use [Trust Wallet](https://trustwallet.com/) for this. Just make sure to generate a new seed for each individual inscription.
