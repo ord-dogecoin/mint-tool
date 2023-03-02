@@ -17,7 +17,7 @@ Each individual inscription PNG file size limit must be under 1.6 KB (1600 bytes
 ## What is the mint fee ?
 The mint fee is 10 DOGE per inscription. This is the total amount you pay to mint one inscription.
 
-## How do I pay the mint fee ?
+## How do I pay mint fees ?
 You need a non-custodial dogecoin wallet to pay for the service. We recommend using [Trust Wallet](https://trustwallet.com/).
 
 ## Where to receive my inscriptions ?
